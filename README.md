@@ -1,6 +1,7 @@
 # Compiler-Construction-lex-and-yacc-
 Lex and Yacc Codes
 all codes executed on kali linux
+RC 16-17 practical experiments
 
 To study LEX and write a LEX program to find if the input is an integer, real number, or word. (Expt 1)
 
