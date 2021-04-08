@@ -1,4 +1,4 @@
-# Compiler-Construction-lex-and-yacc-
+# Compiler-Construction-lex-and-yacc
 Lex and Yacc Codes
 all codes executed on kali linux
 RC 16-17 practical experiments
